@@ -1,11 +1,10 @@
-# Diabetes Prediction Web Application
+<<<<<<< HEAD
+Diabetes Prediction Web Application
 
-# This project aims to predict whether a patient has diabetes based on various health metrics using machine learning techniques. The application utilizes a logistic regression model trained on the Pima Indians Diabetes Database to provide predictions based on user input.
+This project aims to predict whether a patient has diabetes based on various health metrics using machine learning techniques. The application utilizes a logistic regression model trained on the Pima Indians Diabetes Database to provide predictions based on user input.
+Diabetes is a chronic disease that affects millions globally. Early diagnosis is crucial for effective management and treatment. This application helps in predicting diabetes risk by analyzing key health indicators such as glucose levels, BMI, and age.
 
-# This project aims to predict whether a patient has diabetes based on various health metrics using machine learning techniques. The application utilizes a logistic regression model trained on the Pima Indians Diabetes Database to provide predictions based on user input.
-
-# Diabetes is a chronic disease that affects millions globally. Early diagnosis is crucial for effective management and treatment. This application helps in predicting diabetes risk by analyzing key health indicators such as glucose levels, BMI, and age.
-
+# Features
 - User-friendly web interface for data input.
 - Predictive model based on logistic regression.
 - Real-time predictions with clear output messages.
@@ -31,7 +30,6 @@
 
 
 # Usage Instructions
-```markdown
 To use the application:
 1. Fill out the patient information form with the required health metrics.
 2. Click "Submit" to receive a prediction regarding diabetes risk.
@@ -39,3 +37,7 @@ To use the application:
 
 
 # Special thanks to [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) for providing the dataset used in this project.
+=======
+# Diabetes-Prediction-Project
+This project aims to predict whether a patient has diabetes based on various health metrics using machine learning techniques
+>>>>>>> 7b704646eb5e5bb9dad5f40b39147e755ed9f6a6
