@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Diabetes Prediction Web Application
 
 This project aims to predict whether a patient has diabetes based on various health metrics using machine learning techniques. The application utilizes a logistic regression model trained on the Pima Indians Diabetes Database to provide predictions based on user input.
