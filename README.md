@@ -39,4 +39,4 @@ To use the application:
 =======
 # Diabetes-Prediction-Project
 This project aims to predict whether a patient has diabetes based on various health metrics using machine learning techniques
->>>>>>> 7b704646eb5e5bb9dad5f40b39147e755ed9f6a6
+
